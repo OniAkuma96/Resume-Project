@@ -38,6 +38,14 @@
     background-color: #525252;
 }
 
+.ui-menu-color-interests{
+    background-color: #e74c3c;
+}
+
+.ui-menu-color-github{
+    background-color: #1c4a6c;
+}
+
 /* Special padding, margin, and text */
 
 h1, h2, h3, h4{
@@ -175,6 +183,16 @@ footer{
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+}
+
+#index-footer{
+    position: relative;
+    top: 43px;
+}
+
+#contact-footer{
+    position: relative;
+    top: 10px;
 }
 
 .cv-pdf i{
